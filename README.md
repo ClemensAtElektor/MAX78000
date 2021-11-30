@@ -1,7 +1,7 @@
 # MAX78000
 [MAX78000](https://www.maximintegrated.com/MAX78000) related things.
 
-Modified demos that add GPIO pins and UART2 so they can communicate with another microcontroller like an Arduino.
+Modified demos that add GPIO pins and UART2 so they can communicate with another system like an Arduino or a Raspberry Pi or whatever.
 
 - Cats-dogs demo: pin 2.3 indicates a cat, pin 2.4 is for dogs.
 
